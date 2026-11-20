@@ -111,6 +111,9 @@ john --show hash1.txt
 
 The recovered password successfully unlocked the PDF, revealing the NetworkWalks congratulations page.
 
+<img width="1600" height="769" alt="John the Ripper" src="https://github.com/user-attachments/assets/ab7e7c09-5f68-4a40-8b41-6e216dfc0bdf" />
+
+
 ---
 
 ## Module 2 – Password Cracking with NetworkWalks Tools
@@ -179,6 +182,9 @@ The tool successfully identified a matching password.
 `nw{networkwalks_flag1_jtr_270521_1}`
 
 The recovered password successfully unlocked the PDF and displayed the NetworkWalks congratulations page.
+
+<img width="1902" height="899" alt="Screenshot 03" src="https://github.com/user-attachments/assets/1f3310b0-0640-439b-9ffe-f498917e32a4" />
+
 
 ---
 
