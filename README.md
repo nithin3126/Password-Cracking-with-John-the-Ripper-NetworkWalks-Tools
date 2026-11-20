@@ -113,6 +113,8 @@ The recovered password successfully unlocked the PDF, revealing the NetworkWalks
 
 <img width="1600" height="769" alt="John the Ripper" src="https://github.com/user-attachments/assets/ab7e7c09-5f68-4a40-8b41-6e216dfc0bdf" />
 
+<img width="811" height="848" alt="flag1" src="https://github.com/user-attachments/assets/e0e10967-8b68-4085-a325-5b0c840999b9" />
+
 
 ---
 
@@ -185,6 +187,7 @@ The recovered password successfully unlocked the PDF and displayed the NetworkWa
 
 <img width="1902" height="899" alt="Screenshot 03" src="https://github.com/user-attachments/assets/1f3310b0-0640-439b-9ffe-f498917e32a4" />
 
+<img width="1123" height="872" alt="flag2" src="https://github.com/user-attachments/assets/07c3fbbe-6932-4bbe-a4ec-0162d6462fae" />
 
 ---
 
